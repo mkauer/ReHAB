@@ -1,0 +1,115 @@
+Changelog
+
+ ReHAB --> Reconstruction HPSS Assistance to Batchfarm
+=======================================================
+
+10.10.19
++ RECO_LEVEL=0 is now for ONLY downloading the files
+- deleted function bbftpDownload2farm{}
++ feb03-jul10.runs
+~ configReco.sh was updated
+~ nemo3-env.sh was updated
+
+10.07.06
+~ in function 'createNemor' changed the MCFILE to point
+  to a shorter pathname to avoid 80 char limit.
+
+10.05.21
+~ changed the BBFTP 'get' command to cchpssnemo.in2p3.fr:/hpss/...
++ MotherReco.pl now has a -help option
+
+09.08.06
++ mother_reco.pl has matching options now
+~ nemorLog() now checks the JUMP to TOTAL events
+~ $recobunch = 250000 and $bunches = 4
+
+09.08.05
+~ cleanStr() removes all weird formats within a string
+  including \f \a \e \r \n
+~ status.pl has -D option to remove files with a JUMP
+  that is larger than the total number of MC events
+~ hpssPath() now makes filedir if it doesn't exist
++ nemorLog() function looks for common errors in nemor.log
++ firstEvent() returns the 'JUMP' event number
++ procEvent() returns the number of events processed
+~ errRoot() checks nemor.log instead of file size
+~ errDST() checks nemor.log instead of file size
+~ status.pl prints out detailed nemor.log errors now
++ cleanStr() to remove formatting at beginning and end of string
+  for example, some lines in nemor.log have a \r
++ size() prints out the size of a file after checking that
+  the exists
+
+09.07.15
++ made scripts require perl v5.8.5
++ bbftp downloads stop after 3 retries
+~ ssh to pc122 now happens before the bbftp downloads so
+  only one connection is created for all downloads instead
+  of having one connection for every download
++ more thorough status checks are now done, but still not
+  looking through all logfiles as that would take too long
+~ change error check output format so that a return 0 means
+  a successful check, ie no errors
++ functions errDST(), errRaw(), statusID()
++ function noWS() to remove white spaces on strings
+~ all string manip functions use noWS() to make sure strings
+  are read correctly because there was some trouble with this
+~ rebuild the whole status.pl script to use recoMod.pm
++ made $bbftpdir,$cmddir,$logdir,$rawdir,$scriptdir public
+~ many other minor fixes to other functions
+
+09.07.08
++ bbftp_reco now pipes a file to ./tmp_bbftp/$USER-current.log
+  so that you can see in real-time what it's doing
++ sticky permissions on the $basedir and ./tmp_dirs
+~ modified perm() to put sticky on directories
++ added $RECO_LEVEL variable, see configReco for description.
+  basically you can select to only reconstruct files that
+  are being downloaded or only reconstruct files that are
+  already downloaded. gives some flexibility to the user.
+~ changed mother_reco to use the new $RECO_LEVEL.
+~ major bufix to statBBFTP() as it wasn't returning the
+  correct status number for files.
++ added function status().
+
+09.07.07
++ new functions added, readDir(),file2array(),statRoot(),
+  and statBBFTP().
++ statRoot() checks the status of the rootfiles
++ statBBFTP() checks the status of the downloaded file
+~ mother,child,bbftp scripts now use the status checks
++ dos2unix when reading in a file, because the ssh.log
+  files seem to have a weird bug.
+
+09.07.06
++ a file 'RUNNING' is created while the reconstruction
+  is running, so other scripts will know that ReHAB is
+  currently working on that file.
+~ changed how the permissions is handled in perm()
++ permtmp() function to change all permissions of tmp dirs
+
+09.07.03
++ status outputs success efficiency
+~ changed permR() line to [a-zA-Z0-9]
++ child_reco outputs its total runtime
++ bbftp_reco outputs downloads left to do if re-submitting
+~ ReHAB won't recontruct a file if the *.dst > 50k
+  i'll make this more intelligent in the future
+~ increased the truncation of the hpss.path
+
+09.07.02
++ bbftp_reco will re-submit itself to batch farm
+  it will keep re-submitting until all downloads finish
+~ bbftp_reco is sent to 'medium' farm now
+  'medium' farm has more priority over 'long' farm
++ $PERL5LIB variable added to configReco.sh
+  perl looks here for user modules ie 'recoMod.pm'
++ added function 'hpssPath' to recoMod.pm
+  generates hpss.path file with truncated hpss path
++ added function 'subSplit' to recoMod.pm
+  string manipulation to get sub-strings
++ hpss.path file with truncated path sent to each reco directory
+  to be used later by a script to move good root files
+~ modified the test_reco to take runlists for testing funtions
+
+

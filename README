@@ -1,0 +1,32 @@
+README
+
+ ReHAB --> Reconstruction HPSS Assistance to Batchfarm
+=======================================================
+
+is a collection of scripts whose purpose is to take a list
+of files the user wants to reconstruct from the hpss server,
+and download those files and reconstruct them, all done 
+automatically via the batchfarm.
+
+mother_reco.pl and configReco.sh are the only two
+scripts the user must be aware of.
+
+configReco.sh --> has global variables that all other
+  scripts will be using so make sure these are correct
+  and then you must 'source configReco.sh'
+
+mother_reco.pl --> is the main script. it takes any 
+  number of listfiles as arguments.
+
+./mother_reco.pl 2b2n.list bi214.list tl208.list etc...
+
+-------------------------------------------------------
+
+listfiles are generally of the type 'name.list' mainly
+for identification purposes but ReHAB does not actually
+care about the '.list' suffix.
+
+the format for the entries in your listfile is very 
+flexible. please see the 'example.list' for a more
+detailed demonstration.
+

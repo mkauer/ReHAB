@@ -1,0 +1,11 @@
+TODO
+
+ ReHAB --> Reconstruction HPSS Assistance to Batchfarm
+=======================================================
+(highest priority first)
+
+- check reco_09 for good files before sending to reco with
+  mother_reco.pl
+- change toFarm() to send logfile to the filename directory
+- delete raw files after successful reconstruction
+

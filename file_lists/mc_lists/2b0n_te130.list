@@ -1,0 +1,64 @@
+
+/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130/:
+
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 .
+drwxr-xr-x   7 tretiak  nemo                      512 Mar 24  2007 ..
+drwxr-xr-x   2 tretiak  nemo                      512 Jun 05  2009 m15
+drwxr-xr-x   2 tretiak  nemo                      512 Jun 05  2009 m6
+drwxr-xr-x   2 tretiak  nemo                      512 Jun 05  2009 m7
+drwxr-xr-x   2 tretiak  nemo                      512 Sep 13  2008 m1
+drwxr-xr-x   2 tretiak  nemo                      512 Feb 04  2009 m2
+drwxr-xr-x   2 tretiak  nemo                      512 Feb 04  2009 m5
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130//m5:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Feb 04  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 ..
+-rw-r--r--   1 tretiak  nemo                425885696 Feb 05  2009 2b0n_te130_59_m5_101.ntup
+-rw-r--r--   1 tretiak  nemo                425672704 Feb 05  2009 2b0n_te130_59_m5_102.ntup
+-rw-r--r--   1 tretiak  nemo                442073088 Feb 05  2009 2b0n_te130_60_m5_101.ntup
+-rw-r--r--   1 tretiak  nemo                441384960 Feb 05  2009 2b0n_te130_60_m5_102.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130//m2:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Feb 04  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 ..
+-rw-r--r--   1 tretiak  nemo                426655744 Feb 05  2009 2b0n_te130_59_m2_101.ntup
+-rw-r--r--   1 tretiak  nemo                427180032 Feb 05  2009 2b0n_te130_59_m2_102.ntup
+-rw-r--r--   1 tretiak  nemo                439861248 Feb 05  2009 2b0n_te130_60_m2_101.ntup
+-rw-r--r--   1 tretiak  nemo                440074240 Feb 05  2009 2b0n_te130_60_m2_102.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130//m1:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Sep 13  2008 .
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 ..
+-rw-r--r--   1 tretiak  nemo                508575744 Sep 13  2008 2b0n_te130_60_m1_101.ntup
+-rw-r--r--   1 tretiak  nemo                497811456 Sep 13  2008 2b0n_te130_59_m1_102.ntup
+-rw-r--r--   1 tretiak  nemo                498270208 Sep 13  2008 2b0n_te130_59_m1_101.ntup
+-rw-r--r--   1 tretiak  nemo                507953152 Sep 13  2008 2b0n_te130_60_m1_102.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130//m7:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Jun 05  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 ..
+-rw-r--r--   1 tretiak  nemo                201113600 Jun 05  2009 2b0n_te130_59_m7_101.ntup
+-rw-r--r--   1 tretiak  nemo                200933376 Jun 05  2009 2b0n_te130_59_m7_102.ntup
+-rw-r--r--   1 tretiak  nemo                222461952 Jun 05  2009 2b0n_te130_60_m7_101.ntup
+-rw-r--r--   1 tretiak  nemo                222658560 Jun 05  2009 2b0n_te130_60_m7_102.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130//m6:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Jun 05  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 ..
+-rw-r--r--   1 tretiak  nemo                342360064 Jun 05  2009 2b0n_te130_59_m6_102.ntup
+-rw-r--r--   1 tretiak  nemo                362086400 Jun 05  2009 2b0n_te130_60_m6_101.ntup
+-rw-r--r--   1 tretiak  nemo                362790912 Jun 05  2009 2b0n_te130_60_m6_102.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/te130//m15:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Jun 05  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Sep 13  2008 ..
+-rw-r--r--   1 tretiak  nemo                383942656 Jun 05  2009 2b0n_te130_59_m15_101.ntup
+-rw-r--r--   1 tretiak  nemo                384253952 Jun 05  2009 2b0n_te130_59_m15_102.ntup
+-rw-r--r--   1 tretiak  nemo                402358272 Jun 05  2009 2b0n_te130_60_m15_101.ntup
+-rw-r--r--   1 tretiak  nemo                402227200 Jun 05  2009 2b0n_te130_60_m15_102.ntup

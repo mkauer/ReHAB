@@ -1,0 +1,43 @@
+#######################-*-shell-script-*-###################
+# version: 09.07.21
+# author:  Matt Kauer
+# 
+# you can comment out lines with the '#'
+# this is an example list to show the flexibility of the input
+# you can have any number of blank lines between entries
+############################################################
+
+
+# you can name a file that is already in the tmp_raw directory
+############################################################
+#betabeta_2425.rz
+#sfoil_bi210_1081.ntup
+#2b0n_cd116_m1_101.ntup
+
+
+# you can point to files if they are anywhere on local disk
+############################################################
+#/unix/nemo2/ktmp/tmp_raw/betabeta_2424.rz
+#/unix/nemo2/ktmp/tmp_raw/betabeta_2426.rz
+#/unix/nemo2/ktmp/tmp_raw/foils_bi214_56_252.ntup
+#/unix/nemo2/ktmp/tmp_raw/foils_tl207_100_110.ntup 
+
+# of cource you can point to files on the HPSS server
+############################################################
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/apr2003/betabeta_2116.rz
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/apr2003/betabeta_2117.rz
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/apr2003/betabeta_2118.rz
+
+/hpss/in2p3.fr/group/nemo/raw/betabeta/dec2007/betabeta_6547.rz
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/dec2007/betabeta_6548.rz
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/dec2007/betabeta_6549.rz
+
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/dec2007/betabeta_6553.rz
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/dec2007/betabeta_6554.rz
+#/hpss/in2p3.fr/group/nemo/raw/betabeta/dec2007/betabeta_6555.rz
+
+#/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116/m7/2b0n_cd116_m7_101.ntup
+#/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116/m7/2b0n_cd116_m7_102.ntup
+#/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116/m7/2b0n_cd116_m7_103.ntup
+
+

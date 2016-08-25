@@ -1,0 +1,160 @@
+
+----------------------------------------------
+  program:  mother_reco.pl 
+  author:   Matt Kauer (kauer@hep.ucl.ac.uk) 
+  version:  09.07.15 
+  you are:  kauer 
+----------------------------------------------
+
+
+====================================================================
+  Testing mode 0 --> scripts being created, and sent to farm 
+ Level of reco 0 --> only files being downloaded will be reco'd 
+====================================================================
+
+
+ GLOBAL VARIABLES 
+======================================================================
+verbose     = 1 
+testing     = 0 
+level       = 0 
+
+basedir     = /unix/nemo2/ktmp 
+indir       = /home/kauer/NEMO/soft/ReHAB 
+nemosroot   = /unix/nemo2/n3/soft/N3Nemos 
+nemorroot   = /unix/nemo2/n3/soft/N3Nemos/analy/prog/bin.Linux 
+nemorbin    = nemor_1e+.x 
+runlist     = /home/kauer/NEMO/soft/ReHAB/feb03-dec07.runs 
+user        = kauer 
+pc          = pc122.hep.ucl.ac.uk 
+======================================================================
+
+
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5906.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5907.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5908.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5909.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5910.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5911.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5912.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5913.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5914.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5915.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5916.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5917.rz already exists 
+/hpss/in2p3.fr/group/nemo/raw/betabeta/apr2007/betabeta_5918.rz 
+------------------------------------------------------------
+creating  --> /unix/nemo2/ktmp/tmp_cmds/betabeta_5918.cmd 
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+creating  --> /unix/nemo2/ktmp/tmp_bbftp/1247746314.bbftp 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5919.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5920.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5921.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5922.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5923.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5924.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5925.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5926.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5927.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5928.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5929.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5930.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5931.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5932.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5933.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5934.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5935.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5936.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5937.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5938.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5939.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5940.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5941.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5942.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5943.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5944.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5945.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5946.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5947.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5948.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5949.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5950.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5951.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5952.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5953.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5954.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5955.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5956.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5958.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5959.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5960.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5961.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5962.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5963.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5964.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5965.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5966.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5967.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5968.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5969.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5970.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5971.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5972.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5973.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5974.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5975.rz already exists 
+/hpss/in2p3.fr/group/nemo/raw/betabeta/may2007/betabeta_5976.rz 
+------------------------------------------------------------
+creating  --> /unix/nemo2/ktmp/tmp_cmds/betabeta_5976.cmd 
+
+
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5977.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5978.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5979.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5980.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5981.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5982.rz already exists 
+/hpss/in2p3.fr/group/nemo/raw/betabeta/may2007/betabeta_5983.rz 
+------------------------------------------------------------
+creating  --> /unix/nemo2/ktmp/tmp_cmds/betabeta_5983.cmd 
+
+
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5984.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5985.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5987.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5988.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5989.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5990.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5991.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5992.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5993.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5994.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5995.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5996.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5997.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5998.rz already exists 
+AWESOME   ==> /unix/nemo2/ktmp/tmp_raw/betabeta_5999.rz already exists 
+
+THE DOWNLOAD SCRIPT  ==>  /unix/nemo2/ktmp/tmp_bbftp/1247746314-bbftp.sh  
+============================================================
+creating  --> /unix/nemo2/ktmp/tmp_bbftp/1247746314-bbftp.sh 
+toFarm    --> medium  /unix/nemo2/ktmp/tmp_bbftp/1247746314-bbftp.sh 
+1995820.farm00.hep.ucl.ac.uk
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+WARNING: 2 download retries remaining. 
++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+	 finished running mother_reco.pl 
+
+

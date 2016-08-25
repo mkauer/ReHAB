@@ -1,0 +1,2 @@
+MAILTO="torre@hep.ucl.ac.uk"
+0-59/10 * * * * /home/torre/NEMO3/ReHAB/cronjobs/runRecoJobSubmitter.sh /home/torre/NEMO3/ReHAB/cronjobs/reconstructionjobs.list 

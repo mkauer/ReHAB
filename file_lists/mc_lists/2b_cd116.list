@@ -1,0 +1,163 @@
+
+/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116/:
+
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   7 tretiak  nemo                      512 Mar 24  2007 ..
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 m1
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 m2
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 m5
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 m6
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 m7
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 m15
+-rw-r--r--   1 tretiak  nemo                454246400 May 14  2009 2b0n_cd116_l1_m8_101.ntup
+-rw-r--r--   1 tretiak  nemo                454754304 May 14  2009 2b0n_cd116_l1_m8_102.ntup
+-rw-r--r--   1 tretiak  nemo                454262784 May 14  2009 2b0n_cd116_l1_m8_103.ntup
+-rw-r--r--   1 tretiak  nemo                454574080 May 14  2009 2b0n_cd116_l1_m8_104.ntup
+-rw-r--r--   1 tretiak  nemo                454574080 May 14  2009 2b0n_cd116_l1_m8_105.ntup
+-rw-r--r--   1 tretiak  nemo                435830784 May 14  2009 2b0n_cd116_l2_m1_101.ntup
+-rw-r--r--   1 tretiak  nemo                435437568 May 14  2009 2b0n_cd116_l2_m1_102.ntup
+-rw-r--r--   1 tretiak  nemo                435912704 May 14  2009 2b0n_cd116_l2_m1_103.ntup
+-rw-r--r--   1 tretiak  nemo                435798016 May 14  2009 2b0n_cd116_l2_m1_104.ntup
+-rw-r--r--   1 tretiak  nemo                435699712 May 14  2009 2b0n_cd116_l2_m1_105.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116//m15:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 ..
+-rw-r--r--   1 tretiak  nemo                403259392 Apr 05  2009 2b0n_cd116_m15_101.ntup
+-rw-r--r--   1 tretiak  nemo                403324928 Apr 05  2009 2b0n_cd116_m15_102.ntup
+-rw-r--r--   1 tretiak  nemo                403865600 Apr 05  2009 2b0n_cd116_m15_103.ntup
+-rw-r--r--   1 tretiak  nemo                402866176 Apr 05  2009 2b0n_cd116_m15_104.ntup
+-rw-r--r--   1 tretiak  nemo                403259392 Apr 05  2009 2b0n_cd116_m15_105.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116//m7:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 ..
+-rw-r--r--   1 tretiak  nemo                234536960 Apr 05  2009 2b0n_cd116_m7_101.ntup
+-rw-r--r--   1 tretiak  nemo                233979904 Apr 05  2009 2b0n_cd116_m7_102.ntup
+-rw-r--r--   1 tretiak  nemo                234323968 Apr 05  2009 2b0n_cd116_m7_103.ntup
+-rw-r--r--   1 tretiak  nemo                234029056 Apr 05  2009 2b0n_cd116_m7_104.ntup
+-rw-r--r--   1 tretiak  nemo                234160128 Apr 05  2009 2b0n_cd116_m7_105.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116//m6:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 ..
+-rw-r--r--   1 tretiak  nemo                367165440 Apr 05  2009 2b0n_cd116_m6_101.ntup
+-rw-r--r--   1 tretiak  nemo                366886912 Apr 05  2009 2b0n_cd116_m6_102.ntup
+-rw-r--r--   1 tretiak  nemo                366575616 Apr 05  2009 2b0n_cd116_m6_103.ntup
+-rw-r--r--   1 tretiak  nemo                366624768 Apr 05  2009 2b0n_cd116_m6_104.ntup
+-rw-r--r--   1 tretiak  nemo                367525888 Apr 05  2009 2b0n_cd116_m6_105.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116//m5:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 ..
+-rw-r--r--   1 tretiak  nemo                438304768 Apr 05  2009 2b0n_cd116_m5_101.ntup
+-rw-r--r--   1 tretiak  nemo                438403072 Apr 05  2009 2b0n_cd116_m5_102.ntup
+-rw-r--r--   1 tretiak  nemo                438255616 Apr 05  2009 2b0n_cd116_m5_103.ntup
+-rw-r--r--   1 tretiak  nemo                438337536 Apr 05  2009 2b0n_cd116_m5_104.ntup
+-rw-r--r--   1 tretiak  nemo                439025664 Apr 05  2009 2b0n_cd116_m5_105.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116//m2:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 ..
+-rw-r--r--   1 tretiak  nemo                434421760 Apr 05  2009 2b0n_cd116_m2_101.ntup
+-rw-r--r--   1 tretiak  nemo                434356224 Apr 05  2009 2b0n_cd116_m2_102.ntup
+-rw-r--r--   1 tretiak  nemo                434896896 Apr 05  2009 2b0n_cd116_m2_103.ntup
+-rw-r--r--   1 tretiak  nemo                434257920 Apr 05  2009 2b0n_cd116_m2_104.ntup
+-rw-r--r--   1 tretiak  nemo                434192384 Apr 05  2009 2b0n_cd116_m2_105.ntup
+
+cchrfrs001:/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b0n/cd116//m1:
+
+drwxr-xr-x   2 tretiak  nemo                      512 Apr 03  2009 .
+drwxr-xr-x   8 tretiak  nemo                      512 Apr 03  2009 ..
+-rw-r--r--   1 tretiak  nemo                498319360 Apr 05  2009 2b0n_cd116_m1_101.ntup
+-rw-r--r--   1 tretiak  nemo                497926144 Apr 05  2009 2b0n_cd116_m1_102.ntup
+-rw-r--r--   1 tretiak  nemo                498417664 Apr 05  2009 2b0n_cd116_m1_103.ntup
+-rw-r--r--   1 tretiak  nemo                498155520 Apr 05  2009 2b0n_cd116_m1_104.ntup
+-rw-r--r--   1 tretiak  nemo                497975296 Apr 05  2009 2b0n_cd116_m1_105.ntup
+
+/hpss/in2p3.fr/home/t/tretiak/mc_8.0/2b2n/cd116/:
+
+drwxr-xr-x   2 tretiak  nemo                     1536 Jan 31  2007 .
+drwxr-xr-x   9 tretiak  nemo                      512 Jan 31  2007 ..
+-rw-r--r--   1 tretiak  nemo                300040192 Jan 31  2007 2b2n_cd116_m4_104.ntup
+-rw-r--r--   1 tretiak  nemo                296288256 Feb 03  2007 2b2n_cd116_m14_102.ntup
+-rw-r--r--   1 tretiak  nemo                    27296 Jan 31  2007 out.2b2n_cd116_m4_104
+-rw-r--r--   1 tretiak  nemo                300302336 Jan 31  2007 2b2n_cd116_m4_103.ntup
+-rw-r--r--   1 tretiak  nemo                300728320 Jan 31  2007 2b2n_cd116_m4_102.ntup
+-rw-r--r--   1 tretiak  nemo                    28073 Jan 31  2007 out.2b2n_cd116_m4_103
+-rw-r--r--   1 tretiak  nemo                    28397 Jan 31  2007 out.2b2n_cd116_m4_102
+-rw-r--r--   1 tretiak  nemo                296583168 Feb 03  2007 2b2n_cd116_m14_104.ntup
+-rw-r--r--   1 tretiak  nemo                296206336 Feb 03  2007 2b2n_cd116_m14_101.ntup
+-rw-r--r--   1 tretiak  nemo                296583168 Feb 03  2007 2b2n_cd116_m14_105.ntup
+-rw-r--r--   1 tretiak  nemo                296796160 Feb 03  2007 2b2n_cd116_m14_103.ntup
+-rw-r--r--   1 tretiak  nemo                300122112 Jan 31  2007 2b2n_cd116_m4_105.ntup
+-rw-r--r--   1 tretiak  nemo                    27902 Jan 31  2007 out.2b2n_cd116_m4_105
+-rw-r--r--   1 tretiak  nemo                300072960 Jan 31  2007 2b2n_cd116_m4_101.ntup
+-rw-r--r--   1 tretiak  nemo                    27208 Jan 31  2007 out.2b2n_cd116_m4_101
+-rw-r--r--   1 tretiak  nemo                296009728 Feb 09  2009 2b2n_cd116_m4_6.ntup
+-rw-r--r--   1 tretiak  nemo                296009728 Feb 09  2009 2b2n_cd116_m4_7.ntup
+-rw-r--r--   1 tretiak  nemo                296566784 Feb 09  2009 2b2n_cd116_m4_8.ntup
+-rw-r--r--   1 tretiak  nemo                296255488 Feb 09  2009 2b2n_cd116_m4_9.ntup
+-rw-r--r--   1 tretiak  nemo                296370176 Feb 09  2009 2b2n_cd116_m4_10.ntup
+-rw-r--r--   1 tretiak  nemo                296321024 Feb 09  2009 2b2n_cd116_m4_11.ntup
+-rw-r--r--   1 tretiak  nemo                295927808 Feb 09  2009 2b2n_cd116_m4_12.ntup
+-rw-r--r--   1 tretiak  nemo                296239104 Feb 09  2009 2b2n_cd116_m4_13.ntup
+-rw-r--r--   1 tretiak  nemo                296140800 Feb 09  2009 2b2n_cd116_m4_14.ntup
+-rw-r--r--   1 tretiak  nemo                296222720 Feb 09  2009 2b2n_cd116_m4_15.ntup
+-rw-r--r--   1 tretiak  nemo                296419328 Feb 09  2009 2b2n_cd116_m4_16.ntup
+-rw-r--r--   1 tretiak  nemo                296304640 Feb 09  2009 2b2n_cd116_m4_17.ntup
+-rw-r--r--   1 tretiak  nemo                296517632 Feb 09  2009 2b2n_cd116_m4_18.ntup
+-rw-r--r--   1 tretiak  nemo                296419328 Feb 09  2009 2b2n_cd116_m4_20.ntup
+-rw-r--r--   1 tretiak  nemo                296419328 Feb 09  2009 2b2n_cd116_m4_19.ntup
+-rw-r--r--   1 tretiak  nemo                292110336 Feb 06  2009 2b2n_cd116_m14_6.ntup
+-rw-r--r--   1 tretiak  nemo                292798464 Feb 06  2009 2b2n_cd116_m14_7.ntup
+-rw-r--r--   1 tretiak  nemo                292405248 Feb 06  2009 2b2n_cd116_m14_8.ntup
+-rw-r--r--   1 tretiak  nemo                292618240 Feb 06  2009 2b2n_cd116_m14_9.ntup
+-rw-r--r--   1 tretiak  nemo                292601856 Feb 06  2009 2b2n_cd116_m14_10.ntup
+-rw-r--r--   1 tretiak  nemo                292143104 Feb 06  2009 2b2n_cd116_m14_11.ntup
+-rw-r--r--   1 tretiak  nemo                292077568 Feb 06  2009 2b2n_cd116_m14_12.ntup
+-rw-r--r--   1 tretiak  nemo                292536320 Feb 06  2009 2b2n_cd116_m14_13.ntup
+-rw-r--r--   1 tretiak  nemo                292044800 Feb 06  2009 2b2n_cd116_m14_14.ntup
+-rw-r--r--   1 tretiak  nemo                293453824 Feb 06  2009 2b2n_cd116_m14_15.ntup
+-rw-r--r--   1 tretiak  nemo                292405248 Feb 06  2009 2b2n_cd116_m14_16.ntup
+-rw-r--r--   1 tretiak  nemo                292438016 Feb 06  2009 2b2n_cd116_m14_17.ntup
+-rw-r--r--   1 tretiak  nemo                292716544 Feb 06  2009 2b2n_cd116_m14_18.ntup
+-rw-r--r--   1 tretiak  nemo                292454400 Feb 06  2009 2b2n_cd116_m14_19.ntup
+-rw-r--r--   1 tretiak  nemo                292421632 Feb 06  2009 2b2n_cd116_m14_20.ntup
+-rw-r--r--   1 tretiak  nemo                297484288 May 14  2009 2b2n_cd116_139_m4_101.ntup
+-rw-r--r--   1 tretiak  nemo                297304064 May 14  2009 2b2n_cd116_139_m4_102.ntup
+-rw-r--r--   1 tretiak  nemo                245694464 May 14  2009 2b2n_cd116_l1_m9_101.ntup
+-rw-r--r--   1 tretiak  nemo                245334016 May 14  2009 2b2n_cd116_l1_m9_102.ntup
+-rw-r--r--   1 tretiak  nemo                245350400 May 14  2009 2b2n_cd116_l1_m9_103.ntup
+-rw-r--r--   1 tretiak  nemo                244989952 May 14  2009 2b2n_cd116_l1_m9_104.ntup
+-rw-r--r--   1 tretiak  nemo                245547008 May 14  2009 2b2n_cd116_l1_m9_105.ntup
+-rw-r--r--   1 tretiak  nemo                245596160 May 14  2009 2b2n_cd116_l1_m9_106.ntup
+-rw-r--r--   1 tretiak  nemo                245350400 May 14  2009 2b2n_cd116_l1_m9_107.ntup
+-rw-r--r--   1 tretiak  nemo                245170176 May 14  2009 2b2n_cd116_l1_m9_108.ntup
+-rw-r--r--   1 tretiak  nemo                245071872 May 14  2009 2b2n_cd116_l1_m9_109.ntup
+-rw-r--r--   1 tretiak  nemo                245121024 May 14  2009 2b2n_cd116_l1_m9_110.ntup
+-rw-r--r--   1 tretiak  nemo                133185536 May 14  2009 2b2n_cd116_l2_m4_101.ntup
+-rw-r--r--   1 tretiak  nemo                133136384 May 14  2009 2b2n_cd116_l2_m4_102.ntup
+-rw-r--r--   1 tretiak  nemo                133038080 May 14  2009 2b2n_cd116_l2_m4_103.ntup
+-rw-r--r--   1 tretiak  nemo                133300224 May 14  2009 2b2n_cd116_l2_m4_104.ntup
+-rw-r--r--   1 tretiak  nemo                133611520 May 14  2009 2b2n_cd116_l2_m4_105.ntup
+-rw-r--r--   1 tretiak  nemo                133611520 May 14  2009 2b2n_cd116_l2_m4_106.ntup
+-rw-r--r--   1 tretiak  nemo                133300224 May 14  2009 2b2n_cd116_l2_m4_107.ntup
+-rw-r--r--   1 tretiak  nemo                133038080 May 14  2009 2b2n_cd116_l2_m4_108.ntup
+-rw-r--r--   1 tretiak  nemo                133365760 May 14  2009 2b2n_cd116_l2_m4_109.ntup
+-rw-r--r--   1 tretiak  nemo                133103616 May 14  2009 2b2n_cd116_l2_m4_110.ntup
+-rw-r--r--   1 tretiak  nemo                133742592 May 14  2009 2b2n_cd116_l2_m14_109.ntup
+-rw-r--r--   1 tretiak  nemo                133840896 May 14  2009 2b2n_cd116_l2_m14_101.ntup
+-rw-r--r--   1 tretiak  nemo                133922816 May 14  2009 2b2n_cd116_l2_m14_102.ntup
+-rw-r--r--   1 tretiak  nemo                133726208 May 14  2009 2b2n_cd116_l2_m14_103.ntup
+-rw-r--r--   1 tretiak  nemo                134135808 May 14  2009 2b2n_cd116_l2_m14_104.ntup
+-rw-r--r--   1 tretiak  nemo                133939200 May 14  2009 2b2n_cd116_l2_m14_105.ntup
+-rw-r--r--   1 tretiak  nemo                133873664 May 14  2009 2b2n_cd116_l2_m14_106.ntup
+-rw-r--r--   1 tretiak  nemo                133840896 May 14  2009 2b2n_cd116_l2_m14_107.ntup
+-rw-r--r--   1 tretiak  nemo                133758976 May 14  2009 2b2n_cd116_l2_m14_108.ntup
+-rw-r--r--   1 tretiak  nemo                134201344 May 14  2009 2b2n_cd116_l2_m14_110.ntup
